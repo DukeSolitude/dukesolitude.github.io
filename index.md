@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<a id='cWkkfxNhRA1KbQBdpVY66Q' class='gie-single' href='http://www.gettyimages.ca/detail/599635031' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'cWkkfxNhRA1KbQBdpVY66Q',sig:'OQqXAG1PyCvBQbKGL8UEffLgC8CTAwnQ2n1hkJNQHUc=',w:'509px',h:'339px',items:'599635031',caption: true ,tld:'ca',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
 You can use the [editor on GitHub](https://github.com/DukeSolitude/dukesolitude.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
